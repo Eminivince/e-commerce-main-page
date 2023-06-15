@@ -1,3 +1,8 @@
+Preview
+![image](https://github.com/Eminivince/e-commerce-main-page/assets/90112964/cfe505ff-7039-4066-89b6-6955eed2cd31)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
